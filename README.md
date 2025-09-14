@@ -31,7 +31,13 @@ Created Linux users and groups, set file and directory permissions, configured s
 - Disabled root login by editing `/etc/ssh/sshd_config`
 
 ## Screenshots / Examples
-*(Add screenshots of commands, outputs, and directory structures here)*
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fe863415-606c-4f28-b7f0-ea546d62f1f2" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6889ce15-f4bb-4071-b3f9-2c033ad50797" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/244c0ac8-2532-40d5-8f85-b8ff9be90144" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/13ff6738-4a5c-484c-884a-a6df2ec8b7de" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1b6f1440-6547-4698-b7f1-a7706174d78b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f09b4908-0743-44d9-88a8-bf1dc98de763" />
+
 
 ## Notes
 - Practiced all commands on multiple users
